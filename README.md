@@ -1,4 +1,4 @@
-# -Inventory-Management-system
+# Inventory-Management-system
 
 Serverless Inventory Management System
 
